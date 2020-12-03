@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1602476838 source:c:\gabriela.barela\2020 cuatrimestre 2 labo\practica parcial 1\practica parcial 1 labo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"menu.h"
+	"alumno.h"
+	"informes.h"
+
+1601751667 c:\gabriela.barela\2020 cuatrimestre 2 labo\practica parcial 1\practica parcial 1 labo\menu.h
+
+1601946708 source:c:\gabriela.barela\2020 cuatrimestre 2 labo\practica parcial 1\practica parcial 1 labo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1602476690 source:c:\gabriela.barela\2020 cuatrimestre 2 labo\practica parcial 1\practica parcial 1 labo\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"utn.h"
+	"division.h"
+
+1602475929 c:\gabriela.barela\2020 cuatrimestre 2 labo\practica parcial 1\practica parcial 1 labo\alumno.h
+	"division.h"
+
+1601947769 source:c:\gabriela.barela\2020 cuatrimestre 2 labo\practica parcial 1\practica parcial 1 labo\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1601763785 c:\gabriela.barela\2020 cuatrimestre 2 labo\practica parcial 1\practica parcial 1 labo\utn.h
+
+1602464067 c:\gabriela.barela\2020 cuatrimestre 2 labo\practica parcial 1\practica parcial 1 labo\division.h
+
+1601937848 source:c:\gabriela.barela\2020 cuatrimestre 2 labo\practica parcial 1\practica parcial 1 labo\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"menu.h"
+	"informes.h"
+	"alumno.h"
+	"utn.h"
+
+1601935504 c:\gabriela.barela\2020 cuatrimestre 2 labo\practica parcial 1\practica parcial 1 labo\informes.h
+	"menu.h"
+	"informes.h"
+	"alumno.h"
+	"utn.h"
+
+1605538648 source:c:\users\lauta\desktop\practica parcial 1 labo\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"menu.h"
+	"informes.h"
+	"alumno.h"
+	"utn.h"
+
+1607027621 c:\users\lauta\desktop\practica parcial 1 labo\menu.h
+	"alumno.h"
+
+1602620921 c:\users\lauta\desktop\practica parcial 1 labo\informes.h
+	"menu.h"
+	"informes.h"
+	"alumno.h"
+	"utn.h"
+
+1607033583 c:\users\lauta\desktop\practica parcial 1 labo\alumno.h
+
+1607016510 c:\users\lauta\desktop\practica parcial 1 labo\division.h
+
+1601763785 c:\users\lauta\desktop\practica parcial 1 labo\utn.h
+
+1607032672 source:c:\users\lauta\desktop\practica parcial 1 labo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"menu.h"
+	"alumno.h"
+	"informes.h"
+
+1607033235 source:c:\users\lauta\desktop\practica parcial 1 labo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"menu.h"
+
+1601947769 source:c:\users\lauta\desktop\practica parcial 1 labo\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1607033633 source:c:\users\lauta\desktop\practica parcial 1 labo\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"utn.h"
+	"division.h"
+	"menu.h"
+
+1607030280 source:c:\users\vaio\desktop\practica parcial 1 labo\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"utn.h"
+	"division.h"
+	"menu.h"
+
+1607026705 c:\users\vaio\desktop\practica parcial 1 labo\alumno.h
+
+1607016510 c:\users\vaio\desktop\practica parcial 1 labo\division.h
+
+1601763785 c:\users\vaio\desktop\practica parcial 1 labo\utn.h
+
+1605538648 source:c:\users\vaio\desktop\practica parcial 1 labo\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"menu.h"
+	"informes.h"
+	"alumno.h"
+	"utn.h"
+
+1607027621 c:\users\vaio\desktop\practica parcial 1 labo\menu.h
+	"alumno.h"
+
+1602620921 c:\users\vaio\desktop\practica parcial 1 labo\informes.h
+	"menu.h"
+	"informes.h"
+	"alumno.h"
+	"utn.h"
+
+1607026348 source:c:\users\vaio\desktop\practica parcial 1 labo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"menu.h"
+	"alumno.h"
+	"informes.h"
+
+1607029986 source:c:\users\vaio\desktop\practica parcial 1 labo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"menu.h"
+
+1601947769 source:c:\users\vaio\desktop\practica parcial 1 labo\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
