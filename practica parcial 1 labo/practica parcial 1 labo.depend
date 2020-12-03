@@ -73,7 +73,7 @@
 	"alumno.h"
 	"utn.h"
 
-1607033583 c:\users\lauta\desktop\practica parcial 1 labo\alumno.h
+1607035855 c:\users\lauta\desktop\practica parcial 1 labo\alumno.h
 
 1607016510 c:\users\lauta\desktop\practica parcial 1 labo\division.h
 
@@ -102,7 +102,7 @@
 	<ctype.h>
 	"utn.h"
 
-1607033633 source:c:\users\lauta\desktop\practica parcial 1 labo\alumno.c
+1607035725 source:c:\users\lauta\desktop\practica parcial 1 labo\alumno.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>

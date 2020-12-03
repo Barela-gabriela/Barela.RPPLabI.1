@@ -45,7 +45,7 @@ int menuInformes()
     printf("\n\t\t\|8. Listado Raza y Nombre Mascota  |");
     printf("\n\t\t\|9. Listar promedio Peso del Tipo  |");
     printf("\n\t\t\|10. Listar por tipo y peso        |");
-    printf("\n\t\t\|10. Listar por tipo y pais        |");
+    printf("\n\t\t\|11. Listar por tipo y pais        |");
     printf("\n\t\t\|12. Salir                         |\n");
     printf("\t\t\ ----------------------------------");
     printf("\n\n");

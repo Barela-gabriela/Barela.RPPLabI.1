@@ -55,6 +55,7 @@ void sortMascota(ePaises apais[],int tam);
 
 
 ///     Informes
+void infoTipo(eMascotas pet[],int tam,eTipo tip[],int tamTip,eRaza raz[],int tamRaz,ePaises apais[],int tamPais);
 void sortTipo2(eMascotas pet[],int tam,eTipo tip[],int tamTip);
 
 void listadoMayorPais(ePaises aPais[], int tam);
@@ -89,6 +90,8 @@ void harcodeoMacotas(eMascotas pet[],int tam, eRaza raza[],int tamRaza,ePaises p
 void harcodeoRazas(eRaza raza[], int tam);
 
 void harcodeoPaises(ePaises pais[],int tamPais);
+
+void hardcodeoTipos(eTipo tip[], int tamtip);
 
 int addMascota(eMascotas pet[],int tam,eRaza raz[],int tamRaz,ePaises aPais[],int tamPais,eTipo tip[],int tamTip);
 
